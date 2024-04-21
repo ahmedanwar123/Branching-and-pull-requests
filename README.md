@@ -31,5 +31,6 @@ If you would like to contribute to this repository, we welcome your input! Feel 
 For further reading and learning about Git branching and pull requests, check out the following resources:
 
 [A 6 hour tutorial from Big Data بالعربي explains about git and github in Arabic](https://www.youtube.com/watch?v=Q6G-J54vgKc)
+
 [Git Documentation](https://git-scm.com/book/en/v2)
 
