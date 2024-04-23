@@ -4,7 +4,7 @@ Welcome to the "Branching and Pull Requests" repository! This repository serves 
 
 ## About
 
-This repository is under construction till now it aims to provide a clear understanding of how to utilize Git branching and pull requests in your development workflow. Whether you're a beginner learning the basics or an experienced developer looking to refine your skills, this resource offers valuable insights and examples.
+This repository is under construction till now. It aims to provide a clear understanding of how to utilize Git branching and pull requests in your development workflow. Whether you're a beginner learning the basics or an experienced developer looking to refine your skills, this resource offers valuable insights and examples.
 
 ## Contents
 
